@@ -4,7 +4,7 @@ const ITEMS = [
   'Kit de servir','Assadeira','Frigideira 28 cm / 38 cm','Panela pipoqueira',
   'Jogo de panelas','Jogos de talheres para servir','Frigideira Tramontina',
   'Aspirador de pó','Micro-ondas','Ventilador','TV','Geladeira',
-  'Bebedouro / Purificador','Ar-condicionado','Kit de churrasco'
+  'Bebedouro / Purificador','Ar-condicionado','Kit de churrasco','Tapete de sala'
 ];
 
 function render(){
